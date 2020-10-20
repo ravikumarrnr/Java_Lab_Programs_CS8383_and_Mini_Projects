@@ -8,13 +8,13 @@ https://www.youtube.com/playlist?list=PLiFb3YRcOSxvro-iVLkoMnK5ZdOUa5xXG
 
 Don't Forget to Hit the Like Button
 
-Do Subscribe: RK KEYNOTES
+#Do Subscribe: RK KEYNOTES
 
 -----------------------------------------------------------
 Do Check the Following Useful PlayLists
 
 # Data Science PlayList
-Module 1: Python Basics for Data Science
+# Module 1: Python Basics for Data Science
 https://www.youtube.com/playlist?list=PLiFb3YRcOSxtY5mmMfQc4Cn4mm7SAj72p
 
 # Module 2: Statistics Basics for Data Science
