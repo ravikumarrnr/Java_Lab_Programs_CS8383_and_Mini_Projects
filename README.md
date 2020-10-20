@@ -1,9 +1,9 @@
-# Java_Lab_Programs_CS8383
+# Java_Lab_Programs_CS8383 and Mini_Projects
 
-Java Lab Programs PlayList Link
+# Java Lab Programs PlayList Link
 https://www.youtube.com/playlist?list=PLiFb3YRcOSxs_FLBunnV4m-PBhyttewst
 
-Java Mini-Projects PlayList Link
+# Java Mini-Projects PlayList Link
 https://www.youtube.com/playlist?list=PLiFb3YRcOSxvro-iVLkoMnK5ZdOUa5xXG
 
 Don't Forget to Hit the Like Button
@@ -13,26 +13,26 @@ Do Subscribe: RK KEYNOTES
 -----------------------------------------------------------
 Do Check the Following Useful PlayLists
 
-Data Science PlayList
+# Data Science PlayList
 Module 1: Python Basics for Data Science
 https://www.youtube.com/playlist?list=PLiFb3YRcOSxtY5mmMfQc4Cn4mm7SAj72p
 
-Module 2: Statistics Basics for Data Science
+# Module 2: Statistics Basics for Data Science
 https://www.youtube.com/playlist?list=PLiFb3YRcOSxtUNcmfzaOaKBHmcTuFlciL
 
 ----------------------------------------------------------------
 
-Google Tips and Tricks
+# Google Tips and Tricks
 https://www.youtube.com/playlist?list=PLiFb3YRcOSxsliKitSnt2wOjg4Bm-gi2T
 
 ----------------------------------------------------------------
 
-ICT Tools for Teachers and Students 
+# ICT Tools for Teachers and Students 
 https://www.youtube.com/playlist?list=PLiFb3YRcOSxusI5FTtxRq2YYNsbdbsn8F
 
 --------------------------------------------------------------------
 
-Prezi and Powerpoint Tricks
+# Prezi and Powerpoint Tricks
 https://www.youtube.com/playlist?list=PLiFb3YRcOSxs_eOhlzk-7CLKswnYxknpa
 
 -----------------------------------------------------------------------
